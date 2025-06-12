@@ -6,3 +6,7 @@ export default function BooksPage() {
     </main>
   );
 }
+
+export default function BookDetailPage() {
+     return <div>Book detail page coming soon.</div>;
+   }
